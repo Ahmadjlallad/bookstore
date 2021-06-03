@@ -46,9 +46,3 @@ for(i=0; num !== 0 ;--num){
 document.write('<div><img src="https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1573841248-419TWZk7luL.jpg?crop=1xw:0.987xh;center,top&resize=768:*" width="300" height="500" >' +"The Testaments: The Sequel to The Handmaid's Tale"+ "</div>")}
 =======
 document.write("<h2>" + ans2 + "</h2>" );
-
-
-
-
-
->>>>>>> 55adbe8d604385d9c10d5a28b799e0cd762886f6
