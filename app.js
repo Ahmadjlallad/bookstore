@@ -6,7 +6,7 @@ var ans = prompt(like)
 while(ans.toUpperCase() != ("YES" || "NO")){
   if (ans.toUpperCase() === "YES") {
     alert(wlc = "Welcome to the Group") ;}
-  else{alert(out = "out now!");var ans = prompt(like) ;}}
+  else{alert(out = "out now!");}
 
 var ans2 = prompt(fav)
 function myFunction() {
