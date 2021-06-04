@@ -9,8 +9,9 @@ while(ans.toUpperCase() != ("YES" || "NO")){
   if (ans.toUpperCase() === "YES") {
     alert(wlc = "Welcome to the Group") ;}
   else{alert(out = "out now!");}
-  var ans = prompt(like)}var ans2 = prompt(fav)
-  document.write("<h3>" + ans2 + "</h3>");
+  var ans = prompt(like)}
+var ans2 = prompt(fav);
+document.write("<h3>" + ans2 + "</h3>");
 function myFunction() {
   switch (Math.floor(Math.random() * 5)) {
     case 0:
